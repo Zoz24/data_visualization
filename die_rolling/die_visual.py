@@ -1,4 +1,3 @@
-from matplotlib.axis import YAxis
 from die import Die
 from plotly import offline
 from plotly.graph_objs import Bar, Layout
